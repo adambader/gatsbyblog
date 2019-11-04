@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Adam Bader: Product Manager & Entrepreneur`,
+    title: `Adam Bader`,
     author: `Adam Bader`,
     description: `Adam Bader is a Product Manager and Entrepreneur based in Los Angeles, California.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
