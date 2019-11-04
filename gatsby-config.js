@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Adam Bader: Product Manager & Entrepreneur`,
+    author: `Adam Bader`,
+    description: `Adam Bader is a Product Manager and Entrepreneur based in Los Angeles, California.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `adambader`,
     },
   },
   plugins: [
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Adam Bader`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
